@@ -458,7 +458,7 @@ footer {
     display: flex;
 }
 .promo__image{
-    background:url('./img/promo.jpg') no-repeat; 
+    background:url('../img/promo.jpg') no-repeat; 
     background-position: center;
     background-size: cover;
     flex-shrink: 0;
