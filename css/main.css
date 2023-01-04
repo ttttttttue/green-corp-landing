@@ -506,3 +506,18 @@ footer {
     font-size: 15px;
     margin-left: 5px;
 }
+button:hover{
+    background-color: #f6980c;
+    box-shadow: 0 16px 36px rgba(246 152 12 / 20%);
+    transition: background-color 0.3s ease-in;
+}
+.about {
+    position: relative;
+}
+
+.orb-canvas {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    right: 0;
+}
